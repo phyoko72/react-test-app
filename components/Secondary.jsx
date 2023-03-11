@@ -4,6 +4,9 @@ const Secondary = () => {
     return (
         <>
             <Typography variant="h2" component={"h2"} color="white">
+                This is Third Branch
+            </Typography>
+            <Typography variant="h2" component={"h2"} color="white">
                 This is Secondary Branch
             </Typography>
 
